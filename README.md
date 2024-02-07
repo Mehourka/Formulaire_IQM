@@ -14,7 +14,7 @@ Une fois téléchargés, l'ajout des scripts à QGIS se fait comme suit :
 ![image1](https://user-images.githubusercontent.com/84189822/227153987-c880d5d2-b5e8-4606-8ed1-2b7a528285c4.png)
 
 - Dans la boîte de dialogue Options de traitement, sélectionnez l'onglet "Scripts".
-- Cliquez sur le bouton Ajouter à droite du champ pour ajouter le répertoire contenant les scripts et les modèles téléchargés.
+- Cliquez sur le bouton Ajouter à droite du champ pour ajouter le dossier qgis_script.
 
 ![image3](https://user-images.githubusercontent.com/84189822/227154199-0191a4ed-2248-4cc6-93f4-ee73594d5919.png)
 
